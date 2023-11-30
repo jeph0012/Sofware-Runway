@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\bin\Debug\net8.0-windows\TuProyecto.exe
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\bin\Debug\net8.0-windows\TuProyecto.deps.json
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\bin\Debug\net8.0-windows\TuProyecto.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\bin\Debug\net8.0-windows\TuProyecto.dll
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\bin\Debug\net8.0-windows\TuProyecto.pdb
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\TuProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\TuProyecto.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\TuProyecto.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\TuProyecto.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\TuProyecto.sourcelink.json
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\TuProyecto.dll
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\refint\TuProyecto.dll
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\TuProyecto.pdb
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\TuProyecto.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\TuProyecto\obj\Debug\net8.0-windows\ref\TuProyecto.dll

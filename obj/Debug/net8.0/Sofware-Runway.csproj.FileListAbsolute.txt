@@ -1,0 +1,5 @@
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\obj\Debug\net8.0\Sofware-Runway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\obj\Debug\net8.0\Sofware-Runway.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\obj\Debug\net8.0\Sofware-Runway.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\obj\Debug\net8.0\Sofware-Runway.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\GitHub\Sofware-Runway\obj\Debug\net8.0\Sofware-Runway.sourcelink.json
